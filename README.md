@@ -2,7 +2,6 @@
 #### Emily Fredenburgh
 #### DS 2002
 #### Fall 2024
-
 ## Project Overview
 
 ## Business Process
